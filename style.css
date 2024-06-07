@@ -161,11 +161,11 @@ ul li a:hover{
     background-color: var(--primary-color-dark);
 }
 
-.portofolio{
+.linkedin{
     color: var(--primary-color);
 }
 
-.portofolio:hover{
+.linkedin:hover{
     background-color: var(--primary-color-dark);
     color: white;
 }
